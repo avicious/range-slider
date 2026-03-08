@@ -2,7 +2,7 @@
 
 A customizable, accessible range slider component for React that allows users to select a minimum and maximum value from a range, ensuring the thumbs never overlap.
 
-## 🚀 Features
+## Features
 
 - **Double Thumb Selection:** Select a range between a `min` and `max` value.
 - **No Overlap Logic:** Automatically prevents the minimum thumb from crossing the maximum thumb.
@@ -10,12 +10,12 @@ A customizable, accessible range slider component for React that allows users to
 - **Visual Highlight:** The active range between the two thumbs is highlighted.
 - **Browser Compatibility:** Includes vendor-specific CSS to ensure thumbs are visible in Chrome, Safari, Edge, and Firefox.
 
-## 📦 Installation
+## Installation
 
 1. Copy `RangeSlider.jsx` and `RangeSlider.css` into your project components folder.
 2. Ensure you have React installed.
 
-## 🛠️ Usage
+## Usage
 
 Import the component and pass the required props.
 
