@@ -2,6 +2,10 @@
 
 A customizable, accessible range slider component for React that allows users to select a minimum and maximum value from a range, ensuring the thumbs never overlap.
 
+## Live Demo
+
+**Check out the live version of this project here:** [avicious.github.io/range-slider/](https://avicious.github.io/range-slider/)
+
 ## Features
 
 - **Double Thumb Selection:** Select a range between a `min` and `max` value.
